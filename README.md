@@ -1,1 +1,1 @@
-# WPF-C--VPP-Management
+WPF-StationeryStoreManagement
